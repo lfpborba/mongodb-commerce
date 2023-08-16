@@ -1,10 +1,13 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# 💻 Projeto
+O projeto Commerce consiste na manipulação de um banco de dados fictício que contém dados do cardápio do McDonald's.
+# 🚀 Tecnologias
+Este projeto foi desenvolvido com as seguintes tecnologias:
+- Mongo DB
+- Javacript	
+# 📌 Habilidades
+Neste projeto, desenvolvi as seguintes habilidades:
+- Retornar a quantidade de documentos inseridos na coleção "Produtos"
+- Retornar a quantidade total de produtos;
+- Alterar a lista de ingredientes de alguns produtos específicos;
+- Remover itens de produtos (ex: remover cebola de todos os lanches);
+- Consultar a quantidade de vendas dos sanduíches por dia da semana;
